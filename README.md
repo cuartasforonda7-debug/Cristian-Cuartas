@@ -11,7 +11,7 @@ Soy un apasionado de la tecnología y el desarrollo de software. Actualmente, me
 
 - 🔭 **En qué estoy trabajando:** Dominando Java y el modelado de bases de datos relacionales.
 - 🌱 **En qué estoy progresando:** Perfeccionando el control de versiones con Git y flujos de trabajo profesionales.
-- 🎯 **Mi objetivo:** Convertirme en un desarrollador Full-Stack capaz de resolver problemas complejos del mundo real.
+- 🎯 **Mi objetivo:** Convertirme en un Analista de Datos capaz de resolver problemas complejos del mundo real.
 
 ---
 
